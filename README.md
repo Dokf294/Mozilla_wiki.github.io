@@ -10,7 +10,10 @@
 
 ## 👉System requirements
 - Linux|MacOS|Windows
-
+  
+## 👉Go to Site
+- https://dokf294.github.io/Mozilla_wiki.github.io/
+  
 ## 👉Quick setup
 
 👋Follow these steps to run the project locally:
